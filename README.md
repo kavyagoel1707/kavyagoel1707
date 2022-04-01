@@ -2,6 +2,6 @@
 
 ```
 👯 I'm looking to collaborate on Development and Design projects
-🌱 I'm currently interested in App Development, UI/UX and Coding
+🌱 I'm currently working on Flutter, Designing, DS and Algos
 💬 Ask me about anything
 😄 Pronouns: She/her 
