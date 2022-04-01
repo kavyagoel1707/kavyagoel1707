@@ -1,5 +1,9 @@
-### Hi there 👋
+### Welcome to my GitHub Profile 👋
 
+👯 I'm looking to collaborate on App Development/Design projects
+🌱 I'm currently learning Blockchain Development
+💬 Ask me about anything
+😄 Pronouns: She/her
 <!--
 **kavyagoel1707/kavyagoel1707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
